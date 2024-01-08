@@ -1,0 +1,25 @@
+.color-container{
+    height: 150px;
+    width: 300px;
+    background-color: aqua;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+#colorContainer{
+   
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+
+h1{
+    text-align: center;
+    
+}
